@@ -4,8 +4,8 @@ Free taste: **OpenAI-compatible chat completions** curl + a tiny retry wrapper.
 
 Full pack (OpenAI / Anthropic / DeepSeek / Groq + params) is a paid buyout:
 
-- Templates shop: https://chan-templates.pages.dev  
-- Chan week cards (TTS / image): https://buy.ginfo.cc  
+- Templates shop: https://templates.ginfo.cc
+- Chan week cards (TTS / image): https://buy.ginfo.cc
 
 Brand: **Chan**.
 
@@ -25,4 +25,4 @@ Or plain curl: see `recipes/openai.curl.txt`.
 - DeepSeek + Groq (OpenAI-compatible) recipes
 - Shared `retry.sh` + measured timeout/backoff notes (`params.md`)
 
-Pay on the templates page (Base USDC), send Tx, get the download link.
+Pay on the templates page (12 USDC on Base), send Tx, get the download link.
